@@ -9,3 +9,6 @@ the network runs properly. There are two buttons you can use:
 At the bottom of the page, you will see logs. They can be helpful to understand why
 your configuration is wrong.
 </pre>
+
+
+Follow [link](https://cdn.intra.42.fr/pdf/pdf/45385/en.subject.pdf) for more info 
